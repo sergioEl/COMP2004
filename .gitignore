@@ -1,0 +1,9 @@
+.DS_Store
+.sconsign.dblite
+*.o
+name
+hello
+assign
+pointerarrays
+swap
+structures

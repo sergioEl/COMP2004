@@ -1,0 +1,7 @@
+env = Environment(tools=['default', 'clang'])
+env.Program('name.c')
+env.Program('hello.c')
+env.Program('assign.c')
+env.Program('pointerarrays.c')
+env.Program('swap.c')
+env.Program('structures.c')
